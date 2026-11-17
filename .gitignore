@@ -1,1 +1,22 @@
 
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+
