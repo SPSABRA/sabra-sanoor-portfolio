@@ -1,53 +1,99 @@
-# Sabra Sanoor — Personal Portfolio
+# Sabra Sanoor | Personal Portfolio
 
-A responsive React + Vite portfolio presenting Sabra's ICT undergraduate journey, selected projects, skills, education, certificates, leadership and community experiences.
+**ICT Undergraduate | Aspiring Software Developer | Technology Enthusiast**
 
-## Run locally
+Welcome to my personal portfolio repository! This project showcases my academic journey, technical skills, software development projects, certifications, leadership experiences, and community involvement.
+
+I built this portfolio to present not only what I have learned but also how I apply technology, collaborate with others, and continuously grow as a developer.
+
+## 🌐 Live Portfolio
+
+**Portfolio:** [Visit My Portfolio](https://sabra-sanoor-portfolio.vercel.app/)
+
+## 👩‍💻 About Me
+
+I am an Information and Communication Technology undergraduate at the South Eastern University of Sri Lanka, passionate about software development, web technologies, networking, and exploring innovative solutions through technology.
+
+I enjoy learning new technologies, building practical projects, participating in technology-related events, and sharing knowledge through peer mentoring and community activities.
+
+## ✨ Portfolio Highlights
+
+- **Interactive Home Page** – Professional introduction and personal profile.
+- **About Me** – Personal journey, interests, and career direction.
+- **Education Timeline** – Academic journey from school to university.
+- **Project Showcase** – Selected academic and personal development projects.
+- **Technical Skills** – Programming languages, frameworks, and development tools.
+- **Certifications** – Interactive certificate gallery with enlarged previews.
+- **Leadership & Community** – Leadership experiences, volunteering, and peer mentoring.
+- **Photo Stories** – Personal milestones, achievements, and growing-together experiences.
+- **Contact Section** – Direct links to my professional profiles and email.
+
+## 🎓 Education
+
+- **South Eastern University of Sri Lanka** – Bachelor of Information and Communication Technology (BICT).
+- **Kekunagolla National School** – Advanced Level.
+- **An-Noor Central College** – Ordinary Level.
+
+## 🛠️ Technologies Used
+
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
+- Responsive Web Design
+
+## 🚀 Run Locally
+
+To run this project on your computer:
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/SPSABRA/sabra-sanoor-portfolio.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd sabra-sanoor-portfolio
+```
+
+**3. Install dependencies**
 
 ```bash
 npm install
+```
+
+**4. Start the development server**
+
+```bash
 npm run dev
 ```
 
-For a production build:
+**5. Create a production build**
 
 ```bash
 npm run build
+```
+
+**6. Preview the production build**
+
+```bash
 npm run preview
 ```
 
-## Highlights
+## 📬 Connect With Me
 
-- Persistent, scroll-aware navigation with a reading-progress indicator.
-- Responsive layout with a dark-only visual theme.
-- Interactive project filters and project case-study dialogs.
-- Education timeline: An-Noor Central College (O/L), Kekunagolla National School (A/L), and South Eastern University of Sri Lanka (BICT; second year).
-- Certificate coverflow with full-size previews.
-- Leadership and community section featuring the My Sri Lanka Leaders Summit.
-- Dedicated Sri Lanka Unites peer-mentoring and growing-together photo stories, with expandable images and an interactive mentoring-values panel.
-- Scroll reveal, image hover, marquee and decorative motion effects, with reduced-motion support.
+- **LinkedIn:** [Sabra Sanoor](https://www.linkedin.com/in/sabra-sanoor-1a66a1362/)
+- **GitHub:** [SPSABRA](https://github.com/SPSABRA)
+- **Email:** [shabrasanoor@gmail.com](mailto:shabrasanoor@gmail.com)
 
-## Personal links
+## 🌟 Project Purpose
 
-The Contact section uses compact icon-only links. The email icon is connected to `shabrasanoor@gmail.com`. Before publishing, replace `ADD_YOUR_LINKEDIN_PROFILE_URL` and `ADD_YOUR_GITHUB_PROFILE_URL` in the `PROFILE` object near the top of `src/main.jsx` with your exact profile URLs; the icons are visible but intentionally inactive until those real URLs are added. The Vehicle Parking Fee System repository link can be added to its project entry once the correct public URL is available.
+This portfolio is an ongoing reflection of my learning journey, creativity, technical development, and commitment to personal and professional growth.
 
+I believe in learning continuously, building meaningful projects, and growing together through collaboration.
 
-## Final visual update
-- Dark theme is the default and the theme switch has been removed.
-- Added `public/images/sabra-award-milestone.jpg` as a new personal recognition photograph.
-- Existing photographs, certificates, projects and mentoring gallery assets are preserved.
-
-
-## Contact icon update
-- Kept the existing Contact section layout and replaced text buttons with minimal Email, LinkedIn and GitHub icons.
-- Email opens a new message to the portfolio email address.
-- LinkedIn and GitHub become active external links once their exact URLs are entered in `PROFILE`.
-
-
-## Final personalization notes
-
-- The site keeps the dark-only visual theme and all supplied photographs and certificates.
-- The added “My Learning Loop” section presents a distinctive Discover → Experiment → Share approach.
-- Email is connected to `shabrasanoor@gmail.com`.
-- LinkedIn and GitHub icon destinations are intentionally left unconfigured until the exact personal profile URLs are confirmed. A previous conversation contains the GitHub handle `@SabraSanoor`, but the matching public profile URL could not be verified; an earlier LinkedIn slug was only an example, not a confirmed user URL.
-- To connect them later, set `PROFILE.linkedin` and `PROFILE.github` near the top of `src/main.jsx` to the exact profile URLs.
+**Designed and developed by Sabra Sanoor | 2026**
